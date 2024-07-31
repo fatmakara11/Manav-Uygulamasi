@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_WindowsFormIslemleri_.Program">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAEIAAAAAADAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FormLogin" />
+      <Property Name="GirisBasarili" />
+      <Property Name="SifreTazele" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="_WindowsFormIslemleri_.GirisBasarili">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAQAACABABQAAACAAAICAIwDAAAAIKAEQSQQAAA=</HashCode>
+      <FileName>frmSatis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_WindowsFormIslemleri_.FormLogin">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAUAASAQABSAQACAAAByIAA8AAgQgHQAAABAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_WindowsFormIslemleri_.kategori" Collapsed="true">
+    <Position X="13.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>kategori.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_WindowsFormIslemleri_.marka" Collapsed="true">
+    <Position X="13.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>marka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_WindowsFormIslemleri_.müsteriEkle" Collapsed="true">
+    <Position X="10" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>müsteriEkle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_WindowsFormIslemleri_.müsteriListele" Collapsed="true">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>müsteriListele.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_WindowsFormIslemleri_.satis" Collapsed="true">
+    <Position X="11.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>satis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_WindowsFormIslemleri_.satisListele" Collapsed="true">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>satisListele.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_WindowsFormIslemleri_.ürünEkle" Collapsed="true">
+    <Position X="11.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ürünEkle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_WindowsFormIslemleri_.ürünlistele" Collapsed="true">
+    <Position X="11.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ürünlistele.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_WindowsFormIslemleri_.SifreTazele">
+    <Position X="8.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAACAAABQAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>SifreTazele.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
